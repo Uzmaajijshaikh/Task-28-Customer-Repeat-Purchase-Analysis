@@ -40,11 +40,11 @@ Key Insights
 5. The top repeat customer made 205 orders, showing the presence of highly active repeat buyers.
 
 Files
-1. Task_28.ipynb - Google Colab notebook containing data cleaning, customer segmentation, repeat purchase analysis, and insights
-2. Cleaned_Online_Retail_II.csv - Cleaned dataset used for the SQL analysis
-3. Task 28.sql - SQL queries used for repeat purchase analysis
-4. Task 28.db - SQLite database containing the cleaned dataset and SQL analysis
-5. README.md - Summary of the customer repeat purchase analysis
+1.Task 28.ipynb - Google Colab notebook containing data cleaning, customer segmentation, repeat purchase analysis, and insights
+2. Task 28.sql - SQL queries used for repeat purchase analysis
+3.README.md - Summary of the customer repeat purchase analysis
+
+Note - The cleaned CSV and SQLite database were not included in the GitHub repository because their file sizes exceeded GitHub's file-size limit. The cleaned dataset and SQLite database were retained locally, while the Python notebook and SQL query file were included in the submission.
 
 Conclusion
 Customer repeat purchase behavior was successfully analyzed using Python and SQL. The analysis showed that 67.09% of customers were repeat customers and that repeat customers had a higher average order value and significantly higher sales contribution than one-time customers. The results provide useful insights into customer loyalty and purchasing behavior.
